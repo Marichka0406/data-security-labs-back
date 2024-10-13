@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.7.5"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "multer": "^1.4.5-lts.1",
+    "typescript": "^5.6.3"
+  }
+}
